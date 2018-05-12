@@ -1,0 +1,36 @@
+_repo: Four-Weird-Tales_16726
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: Algernon Blackwood played a major role in developing and refining the
+  genre known as 'weird' horror fiction. Concerned with the mystical, mysterious,
+  and uncanny, weird horror writing is tailor-made for fans who prefer suspense and
+  psychodrama to blood and gore. This collection brings together four short masterpieces
+  from Blackwood's remarkable body of work.
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2005-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Horror tales, English'
+- !lcsh 'Fantasy fiction, English'
+- !lcsh 'Supernatural -- Fiction'
+tableOfContents: "The Insanity of Jones\r\nThe Man Who Found Out\r\nThe Glamour of\
+  \ the Snow\r\nSand."
+title: Four Weird Tales
+url: http://www.gutenberg.org/ebooks/16726
